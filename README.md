@@ -1,4 +1,4 @@
-# Translate-arabic-dialect-to-modern-standard-arabic
+# Machine-Translation-Seq2Seq-with-LSTMs-for-Arabic-Dialects-to-Standard-Arabic
 
 # Content
 - [Introduction](#introduction)
